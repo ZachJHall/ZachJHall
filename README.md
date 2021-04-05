@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.zachhall.me/static/Zach-Hall-Resume-O-d461ff6f496d2c8d6a4ae40386324df4.pdf](https://www.zachhall.me/static/Zach-Hall-Resume-O-d461ff6f496d2c8d6a4ae40386324df4.pdf)
 
-- ⚡ Fun fact **I am currently enrolled in an operating systems course that cuts down on the amount of time I can go hiking**
+- ⚡ Fun fact **I am currently enrolled in an operating systems course that drastically cuts down on the amount of time I can go hiking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
