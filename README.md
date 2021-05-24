@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zach</h1>
 <h3 align="center">A Software Developer based in St. Louis, MO.</h3>
 
-- 🌱 I’m currently learning **building a static site generator**
+- 🌱 I’m currently **building a static site generator**
 
 - 👨‍💻 All of my projects are available at [https://www.zachhall.me/](https://www.zachhall.me/)
 
